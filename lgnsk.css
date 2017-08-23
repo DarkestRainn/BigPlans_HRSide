@@ -1,0 +1,57 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+	background: url(img/background.jpg);
+	background-color: #F2F2F2;
+}
+.container {
+	width:1200px;
+	margin: 0 auto;
+}
+.contact {
+	margin-top: 55px;
+}
+h1 {
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+	margin-top: 40px;
+	font-size: 70px;
+	color: #272727;
+}
+a {
+	color: #272727;
+	font-family: Arial;
+	text-decoration: none;
+}
+ul {
+	list-style-type: none;
+}
+.new {
+	width: 1150px;
+	margin-left: 25px;
+	color: #272727;
+}
+.new-h {
+	background-color: #FF9937;
+	height: 5px;
+	margin-top: 30px;
+}
+.new-b {
+	font-size: 36px;
+	margin-top-bottom: 15px;
+}
+.new-img {
+	height: 500px;
+	border: solid black;
+}
+.new-img img {
+	height: 500px;
+	width: 1150px;
+	margin: 0 auto;
+}
+.new-info {
+	font-size: 24px;
+	padding-bottom: 130px;
+}
+
